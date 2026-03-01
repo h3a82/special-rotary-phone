@@ -1,1 +1,8 @@
-
+{
+  "servers": [
+    {
+      "name": "Mon Docker Perso",
+      "address": "http://192.168.10.250:6969"
+    }
+  ]
+}
